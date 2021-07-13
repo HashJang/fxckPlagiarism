@@ -1,0 +1,11 @@
+*.iml
+*.setting
+*.idea
+*.project
+target
+.DS_Store
+log
+*.json
+/example
+*/eclipse/*
+*eclipse*
