@@ -9,6 +9,9 @@ fxckPlagiarism 是一个在看了 996.icu 库之后萌生的想法。相信各�
 
 # 目录
 
+## 尚硅谷 - 抄袭小孩子的 MySQL 系列
+ - [尚硅谷，如此不要face，真给培训机构丢脸](https://mp.weixin.qq.com/s/eCNlD6Uv9CbnoCvsceGzfQ)
+
 ## 慕课网 - 涉嫌抄袭项目，被起诉
  - [newbee-mall开源项目被慕课网拿去做课程，然而我毫不知情，这又是什么骚操作？](https://juejin.cn/post/6970407663859400718)
  - [newbee-mall开源项目被慕课网拿去做课程，项目详细对比记录，更多实锤看这里](https://juejin.cn/post/6970407668716404773)
@@ -25,3 +28,7 @@ fxckPlagiarism 是一个在看了 996.icu 库之后萌生的想法。相信各�
 
 ## 技术全沾 - 抄袭文章，已被处理
  - [整篇文章抄袭，已被处理](https://www.zhihu.com/pin/1330452236183805952)
+
+## 阿甘 - 直接改标题发原创
+
+ - [现在抄袭洗稿，改个标题就直接发了，大无语](https://www.zhihu.com/pin/1464506989120696320)
