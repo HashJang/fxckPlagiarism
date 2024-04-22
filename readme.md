@@ -36,3 +36,9 @@ fxckPlagiarism 是一个在看了 996.icu 库之后萌生的想法。相信各�
 ## 程序员啊 - 仅删除文章前几个字就声明原创
 
  - [原文章连接](https://juejin.cn/post/7128758442474340383); [抄袭狗链接](https://zhuanlan.zhihu.com/p/554217405)
+
+## Bug哥 - 原文抄袭
+抄袭狗：https://www.zhihu.com/people/bugge-68-86
+
+  - [原文章连接](https://zhuanlan.zhihu.com/p/452533097); [抄袭狗链接](https://zhuanlan.zhihu.com/p/453178969)
+  - [原文章连接](https://zhuanlan.zhihu.com/p/452533097); [抄袭狗链接](https://zhuanlan.zhihu.com/p/453201656)
